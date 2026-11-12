@@ -35,6 +35,6 @@ Deliberate merge conflict
 Conflict resolution
 Merge back into main
 GitHub submission
-Contributors
+Contributor
 punith kumar.r
-[Rohan.r]
+
